@@ -13,5 +13,6 @@ module.exports = {
       "path": "./src/images/"
     },
     __key: "images"
-  }]
+  }],
+  pathPrefix: "/dsa-geeks"
 };
